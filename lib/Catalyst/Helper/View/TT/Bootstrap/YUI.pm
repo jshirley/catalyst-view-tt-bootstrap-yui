@@ -2,6 +2,8 @@ package Catalyst::Helper::View::TT::Bootstrap::YUI;
 
 use strict;
 
+our $VERSION = '0.01';
+
 use Path::Class;
 
 sub mk_compclass {

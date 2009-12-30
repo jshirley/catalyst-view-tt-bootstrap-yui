@@ -1,4 +1,4 @@
-package Catalyst::Helper::View::TT::Bootstrap::Manual; 
+package Catalyst::Helper::View::TT::Bootstrap::YUI::Manual; 
 
 1;
 
